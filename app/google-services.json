@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "837586397548",
+    "firebase_url": "https://jetpackcomposeproject-default-rtdb.firebaseio.com",
+    "project_id": "jetpackcomposeproject",
+    "storage_bucket": "jetpackcomposeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837586397548:android:ae30125f0882e90a8b2b49",
+        "android_client_info": {
+          "package_name": "com.example.foodorderingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAPUQ6aZiM5ADs1TzxYRdPB1VqR4nvmOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

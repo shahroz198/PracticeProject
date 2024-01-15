@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodOrderingApp</string>
+    <string name="title_activity_firebase_auth">FirebaseAuth</string>
+</resources>
